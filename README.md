@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula.
 
-Essa linha, eu adicionei diretametne no site! Que impressioante!
+Essa linha, eu adicionei diretametne no site!
