@@ -8,7 +8,7 @@ As aulas foram ministradas pelo professor [@gustavoguanabara](https://github.com
 ### Sobre o curso.
 Status | Tipo |Certificado | Tempo total do curso
 --- | --- | --- | --- 
-09/13 | Gratuito | Pago | 20h
+10/13 | Gratuito | Pago | 20h
 
 ### Conteúdo Programático do curso.
 - [x] - **Aula 01** - O que é Git? O que é versionamento?
@@ -20,7 +20,7 @@ Status | Tipo |Certificado | Tempo total do curso
 - [x] - **Aula 07** - Clonando um repositório.
 - [x] - **Aula 08** - Versionando seus projetos antigos.
 - [x] - **Aula 09** - Você sabe usar Issues?
-- [ ] - **Aula 10** - Guia da linguagem Markdown.
+- [x] - **Aula 10** - Guia da linguagem Markdown.
 - [ ] - **Aula 11** - Seu GitHub muito mais seguro.
 - [ ] - **Aula 12** - Git Branches de forma fácil e com exemplo.
 - [ ] - **Aula 13** - Hospedagem Grátis no GitHub Pages.
