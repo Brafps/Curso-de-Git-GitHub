@@ -21,7 +21,7 @@ Status | Tipo |Certificado | Tempo total do curso
 - [x] - **Aula 08** - Versionando seus projetos antigos.
 - [x] - **Aula 09** - Você sabe usar Issues?
 - [x] - **Aula 10** - Guia da linguagem Markdown.
-- [ ] - **Aula 11** - Seu GitHub muito mais seguro.
+- [x] - **Aula 11** - Seu GitHub muito mais seguro.
 - [ ] - **Aula 12** - Git Branches de forma fácil e com exemplo.
 - [ ] - **Aula 13** - Hospedagem Grátis no GitHub Pages.
 
