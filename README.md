@@ -3,12 +3,12 @@ ___
 ## Dados sobre o curso de Git e Github.
 
 As aulas foram ministradas pelo professor [@gustavoguanabara](https://github.com/gustavoguanabara) e podem ser facilmente encontrada na página: [Curso em Vídeo](cursoemvideo.com). 
-   * A Visualisação das aulas foi feita por mim em 03/2022.
+   * A ultima Visualização do curso foi feita em 10/03/2022.
 
 ### Sobre o curso.
 Status | Tipo |Certificado | Tempo total do curso
 --- | --- | --- | --- 
-10/13 | Gratuito | Pago | 20h
+Conluido | Gratuito | Pago | 20h
 
 ### Conteúdo Programático do curso.
 - [x] - **Aula 01** - O que é Git? O que é versionamento?
@@ -22,7 +22,7 @@ Status | Tipo |Certificado | Tempo total do curso
 - [x] - **Aula 09** - Você sabe usar Issues?
 - [x] - **Aula 10** - Guia da linguagem Markdown.
 - [x] - **Aula 11** - Seu GitHub muito mais seguro.
-- [ ] - **Aula 12** - Git Branches de forma fácil e com exemplo.
-- [ ] - **Aula 13** - Hospedagem Grátis no GitHub Pages.
+- [x] - **Aula 12** - Git Branches de forma fácil e com exemplo. (Exemplo com construção de site simples)
+- [x] - **Aula 13** - Hospedagem Grátis no GitHub Pages. (Tem limitação de linguagem)
 
 🤓
