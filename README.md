@@ -2,7 +2,7 @@
 ___
 ## Dados sobre o curso de Git e Github.
 
-As aulas foram ministradas pelo professor [@gustavoguanabara](https://github.com/gustavoguanabara) e podem ser facilmente encontrada na página: [Curso em Vídeo]([cursoemvideo.com](https://www.cursoemvideo.com/)). 
+As aulas foram ministradas pelo professor [@gustavoguanabara](https://github.com/gustavoguanabara) e podem ser facilmente encontrada na página: [Curso em Vídeo](https://www.cursoemvideo.com). 
    * A ultima Visualização do curso foi feita em 10/03/2022.
 
 ### Sobre o curso.
